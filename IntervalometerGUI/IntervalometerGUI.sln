@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntervalometerGUI", "IntervalometerGUI\IntervalometerGUI.vbproj", "{7A4FA612-135D-43A9-8548-51F1AB562345}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IntervalometerGUISetup", "IntervalometerGUISetup\IntervalometerGUISetup.vdproj", "{56905BC6-B99A-4732-B78F-2C12A940B2EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A4FA612-135D-43A9-8548-51F1AB562345}.Debug|x86.ActiveCfg = Debug|x86
+		{7A4FA612-135D-43A9-8548-51F1AB562345}.Debug|x86.Build.0 = Debug|x86
+		{7A4FA612-135D-43A9-8548-51F1AB562345}.Release|x86.ActiveCfg = Release|x86
+		{7A4FA612-135D-43A9-8548-51F1AB562345}.Release|x86.Build.0 = Release|x86
+		{56905BC6-B99A-4732-B78F-2C12A940B2EF}.Debug|x86.ActiveCfg = Debug
+		{56905BC6-B99A-4732-B78F-2C12A940B2EF}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\bin\Release\IntervalometerGUI.exe
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\bin\Release\IntervalometerGUI.pdb
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\bin\Release\IntervalometerGUI.xml
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\IntervalometerGUI.Form1.resources
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\IntervalometerGUI.Resources.resources
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\IntervalometerGUI.exe
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\IntervalometerGUI.xml
+d:\documents\visual studio 2010\Projects\ECE3055\IntervalometerGUI\IntervalometerGUI\obj\x86\Release\IntervalometerGUI.pdb
